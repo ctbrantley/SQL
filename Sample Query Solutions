@@ -1,4 +1,4 @@
-#A list of sample problems and the relational SQL queries I would use to solve them.
+# A list of sample problems and the relational SQL queries I would use to solve them.
 
 #1. How many orders were placed in January?
 SELECT count(orderID)
